@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"This is a story book which you would love.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1733414407~exp=1733418007~hmac=82be6a9d2954a091e105becc13a31911d8879b36c6d27170ce0b50e2c40eeb5d&w=740"
+    },
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"This is a story book which you would love.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1733414407~exp=1733418007~hmac=82be6a9d2954a091e105becc13a31911d8879b36c6d27170ce0b50e2c40eeb5d&w=740"
+    },
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"This is a story book which you would love.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1733414407~exp=1733418007~hmac=82be6a9d2954a091e105becc13a31911d8879b36c6d27170ce0b50e2c40eeb5d&w=740"
+    },
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"This is a story book which you would love.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1733414407~exp=1733418007~hmac=82be6a9d2954a091e105becc13a31911d8879b36c6d27170ce0b50e2c40eeb5d&w=740"
+    }
+]
